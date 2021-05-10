@@ -66,3 +66,9 @@ End Result and Artifacts:
 2. For test cases failing in assertion statements the reason and error is available on the console and html report
 3. ContactList.json file is avaialble in the current working directory
 4. Html report with pass/Fail/Error information available for each test case
+
+Challenges/Limitations:
+=============================================================
+
+1. Postman tool required to generate Personal ACCESS tokens
+2. Personal access tokens expire in some time, need to manually generate the tokens again and again
