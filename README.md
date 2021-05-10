@@ -14,6 +14,9 @@ PreRequirements:
 The APIs can only be used when they are enabled for the user. Below is the link with information of APIs and how to use them
 https://developers.google.com/people
 
+List of People RestAPIs used directly in the code is as follows:
+https://developers.google.com/people/api/rest/v1/people/searchContacts
+
 Before start coding your first client application,  need to do three things:
 1. Get a Google Account
 2. Create a project, Enable the Google PeopleAPI for the account
